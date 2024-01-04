@@ -53,15 +53,18 @@ Create a welcoming experience for users:
 ## How to Use
 
 1. Clone this repository to your local machine:
-- git clone https://github.com/farhan7reza7/Python-Greeting-Application.git
-
+```bash
+git clone https://github.com/farhan7reza7/Python-Greeting-Application.git
+```
 2. Navigate to the repository directory in your terminal:
-- cd Python-Greeting-Application
-
+```bash
+cd Python-Greeting-Application
+```
 3. Run the desired Python script:
-- python json-module-usages.py
-- python greet_user_application.py
-
+```bash
+python json-module-usages.py
+python greet_user_application.py
+```
 ## Contributing
 
 Your contributions are warmly welcomed! Feel free to:
