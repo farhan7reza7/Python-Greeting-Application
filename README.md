@@ -61,10 +61,10 @@ git clone https://github.com/farhan7reza7/Python-Greeting-Application.git
 cd Python-Greeting-Application
 ```
 3. Run the desired Python script:
-```bash
-python json-module-usages.py
-python greet_user_application.py
-```
+
+- `python json-module-usages.py`
+- `python greet_user_application.py`
+
 ## Contributing
 
 Your contributions are warmly welcomed! Feel free to:
