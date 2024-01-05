@@ -1,4 +1,4 @@
-# Documentation:
+# Documentation`:`
 
 ## Python-Greeting-Application
 
@@ -83,7 +83,7 @@ This project is licensed under the terms of the MIT license. See the LICENSE fil
 
 ## Additional Notes
 
-### Best Practices:
+### Best Practices`:`
 
 The code adheres to recommended practices for readability and maintainability, including:
 
@@ -91,7 +91,7 @@ The code adheres to recommended practices for readability and maintainability, i
 - Clear and concise comments to enhance understanding.
 - Proper indentation and formatting for visual organization.
 
-### Enhancements:
+### Enhancements`:`
 
 Consider expanding the greeting application's capabilities, such as:
 
