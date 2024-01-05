@@ -32,7 +32,9 @@ This repository invites you to:
 
 ## Getting Started
 
-To run these scripts, you need `Python 3`, and the `json module` which comes pre-installed with Python.
+### Prerequisites
+
+To run these scripts, you need `Python`, and the `json module` which comes pre-installed with Python.
 
 ## File Descriptions
 
