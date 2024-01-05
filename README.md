@@ -99,7 +99,7 @@ The code adheres to recommended practices for readability and maintainability, i
 
 ### Enhancements`:`
 
-Consider expanding the greeting application's capabilities, such as:
+Consider `contribution` for expanding the greeting application's capabilities as well as the `python modules use cases for`, such as:
 
 - Storing additional user information for a more personalized experience (e.g., preferences, last login time).
 - Offering a diverse menu of options for various interactions, expanding functionality.
