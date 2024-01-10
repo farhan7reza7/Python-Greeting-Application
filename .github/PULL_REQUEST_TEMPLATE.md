@@ -10,7 +10,7 @@
 
 ## Changes Made
 
-[List the main changes made in this pull request]
+[Briefly List the main changes made in this pull request]
 
 ## Screenshots (if applicable)
 
