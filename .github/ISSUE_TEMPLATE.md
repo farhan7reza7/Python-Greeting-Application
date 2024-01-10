@@ -18,5 +18,5 @@
 
 ## Additional Information
 
-[Include any additional information, logs, or screenshots if required]
+[Include any additional information, logs, or screenshots if applicable]
 
