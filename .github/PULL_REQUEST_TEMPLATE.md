@@ -21,5 +21,5 @@
 - [ ] I have tested these changes thoroughly
 - [ ] My code follows the project's coding standards
 - [ ] I have documented(followed above Description and Changes Made) any necessary changes
-- [ ] I have updated the README if needed(Optional)
+- [ ] I have updated the README if needed (Optional)
 
