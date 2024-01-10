@@ -106,4 +106,4 @@ This project is licensed under the terms of the MIT license. See the LICENSE fil
 - Integrating with external services or APIs to unlock even more possibilities.
 
 ## Wiki Link
-[Python-Greeting-Application wiki provides simplified documentation click it](https://github.com/farhan7reza7/Python-Greeting-Application/wiki)
+[wiki provides simplified documentation: click it](https://github.com/farhan7reza7/Python-Greeting-Application/wiki)
