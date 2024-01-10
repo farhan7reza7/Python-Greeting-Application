@@ -16,7 +16,7 @@
 
 [Describe what actually happened]
 
-## Additional Information
+## Additional Information (if applicable)
 
-[Include any additional information, logs, or screenshots if applicable]
+[Include any additional information, logs, or screenshots]
 
