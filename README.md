@@ -1,5 +1,3 @@
-# Documentation`:`
-
 # Python-Greeting-Application
 
 A warmly greeting `python API`, and `JSON` data handling in Python exploration `repository`!
