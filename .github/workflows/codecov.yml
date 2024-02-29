@@ -7,10 +7,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/setup-python@v4
       - name: Upload coverage to Codecov
         uses: codecov/codecov-action@v2
         with:
           token: ${{ secrets.CODECOV_TOKEN }}  # Make sure to set CODECOV_TOKEN as a secret in your repository settings
-          file: ./coverage/lcov.info
-          flags: -f lcov  # Specify the coverage file format
+          flags: smart-tests
+          verbose: true
