@@ -12,3 +12,5 @@ jobs:
         uses: codecov/codecov-action@v2
         with:
           token: ${{ secrets.CODECOV_TOKEN }}  # Make sure to set CODECOV_TOKEN as a secret in your repository settings
+          file: ./coverage/lcov.info
+          flags: -f lcov  # Specify the coverage file format
