@@ -9,8 +9,7 @@ jobs:
       - name: Checkout code
         uses: actions/setup-python@v4
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v2
+        uses: codecov/codecov-action@v4-beta
         with:
           token: ${{ secrets.CODECOV_TOKEN }}  # Make sure to set CODECOV_TOKEN as a secret in your repository settings
-          flags: smart-tests
-          verbose: true
+       
